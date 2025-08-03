@@ -1,8 +1,9 @@
 .dress {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
 }
 
 .dresscode {
@@ -38,5 +39,4 @@
   align-items: center;
   justify-content: center;
   gap: 10px;
-  margin-bottom: 30px;
 }
