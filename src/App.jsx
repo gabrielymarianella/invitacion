@@ -6,7 +6,8 @@ import Info from './components/info/info';
 import Minuto from './components/minuto/minuto';
 import Musica from './components/musica/musica';
 import Portada from './components/portada/portada';
-import Regalos from './components/regalos/regalos'
+import Regalos from './components/regalos/regalos';
+import Dresscode from './components/dresscode/dresscode'
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
         <Musica />
         <Info />
         <Minuto />
+        <Dresscode />
         <Regalos />
         <Galeria /> 
         <Confirmacion />

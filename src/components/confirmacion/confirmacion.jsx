@@ -12,7 +12,7 @@ function Confirmacion() {
             invitados.
           </p>
           <p className="conf">
-            Confírmanos tu asistencia hasta el 22 de Agosto
+            Confírmanos tu asistencia hasta el 20 de Septiembre.
           </p>
         </div>
         <a

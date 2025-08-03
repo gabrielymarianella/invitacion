@@ -13,10 +13,6 @@ export default function Minuto() {
           <img src={foto} alt="" />
         </div>
       </div>
-      <div className="text-content">
-        <h5>DRESS CODE: Elegante</h5>
-        <h5>¡EVENTO SOLO PARA ADULTOS!</h5>
-      </div>
     </>
   );
 }
