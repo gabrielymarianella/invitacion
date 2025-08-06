@@ -16,11 +16,11 @@ export default function Regalos() {
             que sea por este medio:
           </p>
           <div className="cuenta">
-            <h4 className="lluvia">LLUVIA DE SOBRE</h4>
+            <h4 className="lluvia">LLUVIA DE SOBRES</h4>
             <h4>o</h4>
             <h4>CUENTA DE AHORRO DAVIVIENDA</h4>
             <h4>Numero: 0550488411787150</h4>
-            <h4 className="prop">A nombre de Marianella Jimenez</h4>
+            <h4 className="prop">A nombre de Marianela Jimenez</h4>
           </div>
         </div>
       </div>

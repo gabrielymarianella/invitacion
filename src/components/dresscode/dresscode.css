@@ -23,6 +23,7 @@
   width: 90%;
   display: flex;
   justify-content: space-between;
+  gap: 10px;
 }
 
 .column {
@@ -31,6 +32,7 @@
   align-items: center;
   justify-content: center;
   gap: 10px;
+  text-align: center;
 }
 
 .color-reserv {
@@ -39,4 +41,8 @@
   align-items: center;
   justify-content: center;
   gap: 10px;
+}
+
+.color-reserv p {
+  text-align: center;
 }
